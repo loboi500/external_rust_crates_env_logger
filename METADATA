@@ -1,19 +1,3 @@
-name: "env_logger"
-description: "A logging implementation for `log` which is configured via an environment variable."
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://crates.io/crates/env_logger"
-  }
-  url {
-    type: ARCHIVE
-    value: "https://static.crates.io/crates/env_logger/env_logger-0.8.3.crate"
-  }
-  version: "0.8.3"
-  license_type: NOTICE
-  last_upgrade_date {
-    year: 2021
-    month: 2
-    day: 11
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:46368fa9d44b8bfcb2c13f34f3c883b987d9115907e406d9f0bf85f01994a5f2
+size 431
